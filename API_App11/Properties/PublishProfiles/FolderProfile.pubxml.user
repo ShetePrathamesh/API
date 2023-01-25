@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2023-01-24T06:32:57.7562801Z;True|2023-01-24T12:02:38.7573150+05:30;True|2023-01-23T17:43:55.5411133+05:30;True|2023-01-23T16:20:13.8786028+05:30;True|2023-01-23T15:14:27.4042479+05:30;True|2023-01-23T14:27:09.8434952+05:30;True|2023-01-23T14:04:45.1407749+05:30;False|2023-01-23T14:03:37.5276812+05:30;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Reference\PShete\JsonAPI</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

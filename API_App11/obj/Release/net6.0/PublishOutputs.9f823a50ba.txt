@@ -1,0 +1,14 @@
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.exe
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.deps.json
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.runtimeconfig.json
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.pdb
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\JsonFileReader.dll
+C:\Reference\PShete\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\JsonFileReader.pdb

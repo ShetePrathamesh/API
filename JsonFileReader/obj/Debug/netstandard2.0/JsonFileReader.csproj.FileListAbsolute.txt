@@ -1,0 +1,10 @@
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.csproj.AssemblyReference.cache
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.AssemblyInfoInputs.cache
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.AssemblyInfo.cs
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.csproj.CoreCompileInputs.cache
+C:\Reference\PShete\API_App11\JsonFileReader\bin\Debug\netstandard2.0\JsonFileReader.deps.json
+C:\Reference\PShete\API_App11\JsonFileReader\bin\Debug\netstandard2.0\JsonFileReader.dll
+C:\Reference\PShete\API_App11\JsonFileReader\bin\Debug\netstandard2.0\JsonFileReader.pdb
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.dll
+C:\Reference\PShete\API_App11\JsonFileReader\obj\Debug\netstandard2.0\JsonFileReader.pdb

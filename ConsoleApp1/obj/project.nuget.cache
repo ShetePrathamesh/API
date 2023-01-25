@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYYcFQmmu3ZqkhB9l6j5T6TYDUXQvPAbTTp3cVpUAT14FfMrFZwoI3HZG9zkJ55v85HKP92kYkV8Y3QfUPP0dg==",
+  "success": true,
+  "projectFilePath": "D:\\Prathamesh\\API_App11\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shree\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

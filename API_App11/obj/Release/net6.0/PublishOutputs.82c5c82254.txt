@@ -1,0 +1,15 @@
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.exe
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.deps.json
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.runtimeconfig.json
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\API_App11.pdb
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\JsonFileReader.dll
+D:\Prathamesh\API_App11\API_App11\obj\Release\net6.0\PubTmp\Out\JsonFileReader.pdb
